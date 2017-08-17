@@ -1,0 +1,26 @@
+{
+  "name": "kodilla-final",
+  "version": "1.0.0",
+  "description": "exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krzysiek2017/ZAD7.5.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Krzysztof",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krzysiek2017/ZAD7.5/issues"
+  },
+  "homepage": "https://github.com/Krzysiek2017/ZAD7.5#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0"
+  }
+}
